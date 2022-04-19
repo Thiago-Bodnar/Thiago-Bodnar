@@ -1,16 +1,19 @@
-### Hi there 👋
+## Opa, bão? 
 
-<!--
-**Thiago-Bodnar/Thiago-Bodnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Thiago Bodnar e estou estudando Desenvolvimento Web na Trybe. Desejo trabalhar como Desenvolvedor Full Stack. 
 
-Here are some ideas to get you started:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thiago-Bodnar)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bodnar-b1a204226/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Thiagobodnar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stacks em que eu me sinto confiante:
+
+- HTML5;
+- CSS3 (Bootstrap);
+- Javascript;
+- React (componentes de classe e funcionais);
+- Redux;
+- Jest e RTL (testes)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Bodnar&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bodnar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
