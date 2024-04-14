@@ -1,15 +1,10 @@
 <h1 align="center">Opa, bão? Eu sou o Thiago Bodnar</h1>
-<h3 align="center">Desenvolvedor Back-End em construção</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-bodnar&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-bodnar" /> </p>
 
 - 👨‍💻 Meus principais projetos estão aqui [https://github.com/Thiago-Bodnar?tab=repositories](https://github.com/Thiago-Bodnar?tab=repositories)
 
-- 💬 Tenho muito interesse em **Node.js**
-
 - 📫 Contato **bodnarthiago@gmail.com**
-
-- ⚡ Curiosidade **Além de programar, eu sou Padeiro 🍞**
 
 <h3 align="left">Vamos nos conectar?</h3>
 <p align="left">
